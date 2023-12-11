@@ -12,7 +12,7 @@
           <label for="">Password</label>
         </div>
         <div class="remember">
-          <label><input type="checkbox"> Remember me</label>
+          <label><input type="checkbox" required> Remember me</label>
         </div>
         <button type="submit">Login</button>
         <div class="signUp-link">
